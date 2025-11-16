@@ -44,6 +44,7 @@ Bing Maps Visualization
 Treemaps, Donuts, KPI Cards, Scatter Charts
 
 ## 🟧 1. Overview Dashboard – Business Summary
+<img width="670" height="376" alt="OVERVIEW" src="https://github.com/user-attachments/assets/7315f80b-4cae-4b83-bd6c-f8b1f4cad1e6" />
 
 ### ⭐ Key KPIs
 
@@ -88,7 +89,35 @@ Pending — 33.65%
 
 Returned — 32.48% ⚠ High return rate
 
-## 🟦 2. Payment & Delivery Dashboard
+## 🟪 2. Product & Category Insights
+<img width="669" height="376" alt="Product and Category" src="https://github.com/user-attachments/assets/d29e5567-7f88-4f8a-94b4-cccf21cbd48a" />
+
+### 🛒 Top Products by Sales (≈48M each)
+
+Lipstick
+
+Children’s Books
+
+Headphones
+
+### 📦 Quantity Sold per Category
+
+Beauty — 9.1K units (highest)
+
+### 🗂️ Category Sales Treemap
+
+Beauty & Electronics dominate (~227M each)
+
+Home & Kitchen is the lowest-performing category
+
+### ⭐ Category Ratings
+
+Highest Rating: Electronics (3.07)
+
+Lowest Rating: Clothing (3.00)
+
+## 🟦 3. Payment & Delivery Dashboard
+<img width="670" height="377" alt="Payment and Delivery" src="https://github.com/user-attachments/assets/40925558-d47a-4edd-b256-59e6da2ec96d" />
 
 ### 💳 Sales by Payment Method
 
@@ -118,33 +147,8 @@ Electronics — 20.61%
 
 COD has the highest pending deliveries, indicating drop-offs or customer cancellations.
 
-## 🟪 3. Product & Category Insights
-
-### 🛒 Top Products by Sales (≈48M each)
-
-Lipstick
-
-Children’s Books
-
-Headphones
-
-### 📦 Quantity Sold per Category
-
-Beauty — 9.1K units (highest)
-
-### 🗂️ Category Sales Treemap
-
-Beauty & Electronics dominate (~227M each)
-
-Home & Kitchen is the lowest-performing category
-
-### ⭐ Category Ratings
-
-Highest Rating: Electronics (3.07)
-
-Lowest Rating: Clothing (3.00)
-
 ## 🟩  4. Regional Sales & Customer Insights
+<img width="669" height="377" alt="Regional Sales and Customer Insights" src="https://github.com/user-attachments/assets/e0c517ed-800e-4410-ac55-bb025a2e5527" />
 
 ### 🏆 State-Level Highlights
 
